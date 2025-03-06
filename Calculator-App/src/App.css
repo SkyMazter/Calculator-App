@@ -1,0 +1,19 @@
+.calc-button{
+  background-color: #FF00C4;
+  color: white;
+  text-align: center;
+  width: 100%;
+  border-radius: 0.5rem;
+  border: none;
+  transition: 0.5s;
+}
+.calc-button p{
+  padding-top: 15px;
+}
+
+.calc-button:hover{
+  background-color: rgb(101, 17, 101);
+  
+}
+
+/*Create a class with a .*/
